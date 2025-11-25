@@ -5,7 +5,7 @@ This project focuses on practicing **Object-Oriented Programming (OOP)** concept
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The application provides a simple interface where users can get a random food suggestion.  
 It was developed primarily as a learning project to understand Java Swing, GUI event handling, and OOP principles.  
@@ -14,14 +14,14 @@ This project was developed by a team and helped in practicing class design, obje
 
 ---
 
-## 🧩 My Responsibilities (What I Built)
+## My Responsibilities (What I Built)
 
 - Designed and implemented the **GUI using Java Swing**, including buttons, panels, and labels.
 - Assisted in **debugging and testing** the application to ensure correct functionality.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Programming Language:** Java  
 - **GUI Framework:** Java Swing  
@@ -31,7 +31,7 @@ This project was developed by a team and helped in practicing class design, obje
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 I am `AppleBoiy`, a mentor for this project.  
 I am not the original author, but I assisted the author in building and structuring this application.
